@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1044400933343",
+    "firebase_url": "https://mastermind-dcbb6.firebaseio.com",
+    "project_id": "mastermind-dcbb6",
+    "storage_bucket": "mastermind-dcbb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044400933343:android:28a0ba1981536595ad5c6a",
+        "android_client_info": {
+          "package_name": "rostyslavsysenko.vastermind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044400933343-m8l2m3cicfra1thrdgv9k4hlgfp0it0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbav8db4SonvPCWVjLX422Sxizv9B7li4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044400933343-m8l2m3cicfra1thrdgv9k4hlgfp0it0e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1044400933343-ia16mhnjnsfa2bgs73utpshb3oaa5plb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "rostyslavsysenko.vastermind"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
